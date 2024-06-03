@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Football Leagues</string>
+    <string name="title_activity_add_leagues">AddLeagues</string>
+    <string name="title_activity_search_by_league">SearchByLeague</string>
+    <string name="title_activity_search_clubs">SearchClubs</string>
+    <string name="title_activity_view_jersey">ViewJersey</string>
+    <string name="title_activity_view_team_jersey">ViewTeamJersey</string>
+</resources>
